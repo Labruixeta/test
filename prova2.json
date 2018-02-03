@@ -17,21 +17,6 @@
         "title": "Ca la Maria"
       }
     }, 
-    {
-      "anchor": {
-        "geolocation": {
-          "lat": 52.3686716, 
-          "lon": 4.886032200000001
-        }
-      }, 
-      "icon": {
-        "url": "http://static.layar.com/media/content_media/113/ar-small-icon.png"
-      }, 
-      "id": 1, 
-      "text": {
-        "title": "This is a basic POI"
-      }
-    },
   ],
   "layer": "pocafarinadpd0"
 }
